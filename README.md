@@ -16,20 +16,20 @@ In-memory queries for plain JavaScript and TypeScript arrays — no database req
 
 **Deno**
 ```ts
-import { query } from "jsr:@akash1047/oquery";
+import { query } from "jsr:@oquery/oquery";
 ```
 
 **Node.js / Bun**
 ```sh
-npx jsr add @akash1047/oquery
+npx jsr add @oquery/oquery
 # or
-bunx jsr add @akash1047/oquery
+bunx jsr add @oquery/oquery
 ```
 
 ## Usage
 
 ```ts
-import { query } from "@akash1047/oquery";
+import { query } from "@oquery/oquery";
 
 const users = [
   { name: "Alice", age: 30, role: "admin", address: { city: "NYC" } },

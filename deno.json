@@ -1,5 +1,5 @@
 {
-  "name": "@akash1047/oquery",
+  "name": "@oquery/oquery",
   "version": "0.1.0",
   "exports": "./mod.ts",
   "tasks": {

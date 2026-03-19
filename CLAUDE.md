@@ -26,7 +26,7 @@ deno test --filter "test name" tests/builder_test.ts
 
 ## Architecture
 
-This is a zero-dependency Deno library (`@akash1047/oquery`) published to JSR. The public API is re-exported from `mod.ts`.
+This is a zero-dependency Deno library (`@oquery/oquery`) published to JSR. The public API is re-exported from `mod.ts`.
 
 ### Two-stage fluent builder (`src/builder.ts`)
 

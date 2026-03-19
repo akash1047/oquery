@@ -8,7 +8,7 @@
  * ## Chaining API (primary)
  *
  * ```ts
- * import { query } from "@akash1047/oquery";
+ * import { query } from "@oquery/oquery";
  *
  * const users = [
  *   { name: "Alice", age: 30, role: "admin" },
