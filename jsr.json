@@ -1,0 +1,6 @@
+{
+  "name": "@oquery/oquery",
+  "version": "0.1.0",
+  "exports": "./mod.ts",
+  "include": ["mod.ts", "src/", "README.md", "LICENSE", "jsr.json"]
+}
